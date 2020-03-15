@@ -14,4 +14,5 @@ public interface MyInterfaceA {
 		System.out.println("AAAA");
 	}
 
+
 }
