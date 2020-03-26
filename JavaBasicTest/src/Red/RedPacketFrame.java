@@ -1,4 +1,4 @@
-package Demo_14_Red.Red;
+package Red;
 
 
 import javax.swing.*;
